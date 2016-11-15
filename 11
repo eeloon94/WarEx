@@ -1,0 +1,13 @@
+<!DOCTYPEhtml>
+<html>
+ <head>
+     <title>WarEx</title>
+ </head>
+  <body>
+   <div id="header-wrapper">
+   <p align="center">
+   Warwick Exchange <br/>
+   </P> 
+   <img src="폴더/파일명"/ width='500' height='400'>
+  </body> 
+</html>
